@@ -3,10 +3,10 @@
 <img src="assets/banner.png" width="1000" alt="NITHISH GOWDA — AI ENGINEER + FULL STACK DEVELOPER + ML ENTHUSIAST" style="max-width:100%;">
 <!-- CONTACT BUTTONS -->
 <div align="center" style="text-align:center;padding:21px 0 21px 0;">
-  <a href="https://www.linkedin.com/in/nithish-gowda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&labelColor=black" alt="LinkedIn" width="150" height="44" style="margin:0 8px 8px 0;"></a>
-  <a href="https://leetcode.com/u/nghn0/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Connect-black?style=flat-square&labelColor=black" alt="LeetCode" width="150" height="44" style="margin:0 8px 8px 0;"></a>
-  <a href="https://github.com/nghn0" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Connect-black?style=flat-square&labelColor=black" alt="Portfolio" width="150" height="44" style="margin:0 8px 8px 0;"></a>
-  <a href="mailto:nithish.gowda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Connect-black?style=flat-square&labelColor=black" alt="Gmail" width="150" height="44" style="margin:0 8px 8px 0;"></a>
+  <a href="https://www.linkedin.com/in/nithish-gowda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-8b949e?style=flat-square&labelColor=30363d" alt="LinkedIn" width="839" height="150" style="margin:0 30px 30px 0;"></a>
+  <a href="https://leetcode.com/u/nghn0/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Connect-8b949e?style=flat-square&labelColor=30363d" alt="LeetCode" width="869" height="150" style="margin:0 30px 30px 0;"></a>
+  <a href="https://github.com/nghn0" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Connect-8b949e?style=flat-square&labelColor=30363d" alt="Portfolio" width="825" height="150" style="margin:0 30px 30px 0;"></a>
+  <a href="mailto:nithish.gowda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Connect-8b949e?style=flat-square&labelColor=30363d" alt="Gmail" width="719" height="150" style="margin:0 0 30px 0;"></a>
 </div>
 <!-- ABOUT -->
 <div align="center" style="text-align:center;padding-top:50px;">
