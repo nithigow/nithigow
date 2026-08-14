@@ -46,6 +46,7 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
   <img src="assets/tech/pandas.svg" width="194" height="32" alt="pandas-numpy">
   <img src="assets/tech/git.svg" width="161" height="32" alt="pandas-numpy">
 </div>
+<br>
 <!-- PROJECTS -->
 <div align="center" style="text-align:center;padding-top:44px;">
   <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0;"><img src="assets/icons/folder.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">Projects</h3>
@@ -86,7 +87,7 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
 </div>
 <details>
   <summary align="center" style="list-style:none;text-align:center;padding-top:24px;cursor:pointer;outline:none;">
-    <img src="assets/icons/chevron.svg" width="16" height="16" alt="" style="vertical-align:middle;margin-right:8px;"><span style="font-size:17px;font-weight:600;color:#ffffff;vertical-align:middle;">More Projects</span><img src="assets/icons/link.svg" width="24" height="15" alt="">
+    <span style="font-size:17px;font-weight:600;color:#ffffff;vertical-align:middle;">More Projects</span>
   </summary>
   <div style="padding:16px 30px 0 30px;">
     <table style="width:100%;max-width:940px;margin:0 auto;border-collapse:collapse;color:#ffffff;background:#000000;">
