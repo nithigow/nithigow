@@ -11,14 +11,14 @@
 </div>
 <!-- ABOUT -->
 <div align="center" style="text-align:center;padding-top:50px;">
-  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0 0 0 0;"><img src="assets/icons/about.svg" width="30" height="30" alt="" style="vertical-align:middle;margin-right:12px;">About Me</h3>
+  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0 0 0 0;"><img src="assets/icons/about.svg" width="30" height="20" alt="" style="vertical-align:middle;margin-right:12px;">About Me</h3>
 </div>
 <p align="center" style="text-align:center;font-size:16px;font-weight:400;color:#ffffff;line-height:1.6;padding:16px 24px 0 24px;max-width:940px;margin:0 auto;">
 I teach machines to do the impossible — just to see if they can. I've made AI argue back, read faces, predict the sun's mood swings, and turned a model into an IEEE paper while I was at it. I've also made contracts sign themselves on the blockchain. If a problem looks unsolvable, that's my favourite kind. Powered by espresso, wired by default.
 </p>
 <!-- TECHNOLOGIES -->
 <div align="center" style="text-align:center;padding-top:44px;">
-  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0;"><img src="assets/icons/cpu.svg" width="30" height="30" alt="" style="vertical-align:middle;margin-right:12px;">Technologies</h3>
+  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0;"><img src="assets/icons/cpu.svg" width="30" height="20" alt="" style="vertical-align:middle;margin-right:12px;">Technologies</h3>
 </div>
 <div align="center" style="text-align:center;padding-top:20px;">
   <p style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">AI, Machine Learning &amp; Data</p>
@@ -46,7 +46,7 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
 </div>
 <!-- PROJECTS -->
 <div align="center" style="text-align:center;padding-top:44px;">
-  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0;"><img src="assets/icons/folder.svg" width="30" height="30" alt="" style="vertical-align:middle;margin-right:12px;">Projects</h3>
+  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0;"><img src="assets/icons/folder.svg" width="30" height="20" alt="" style="vertical-align:middle;margin-right:12px;">Projects</h3>
 </div>
 <p align="center" style="text-align:center;font-size:17px;font-weight:600;color:#ffffff;padding-top:24px;margin:0;">Featured Projects</p>
 <div style="padding:0 30px;">
@@ -132,7 +132,7 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
 </details>
 <!-- STATISTICS -->
 <div align="center" style="text-align:center;padding-top:44px;">
-  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0 0 24px 0;"><img src="assets/icons/chart.svg" width="30" height="30" alt="" style="vertical-align:middle;margin-right:12px;">Statistics</h3>
+  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0 0 24px 0;"><img src="assets/icons/chart.svg" width="30" height="20" alt="" style="vertical-align:middle;margin-right:12px;">Statistics</h3>
   <img src="assets/stats-card.svg" width="460" height="180" alt="Nithish's GitHub Stats — 128 stars, 1,587 commits, 67 PRs, 42 repos" style="max-width:100%;">
 </div>
 </div>
