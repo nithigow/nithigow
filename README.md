@@ -62,22 +62,22 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
     </thead>
     <tbody>
       <tr>
-        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Digital Contract Platform <a href="https://github.com/nghn0" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="14" height="14" alt="" style="vertical-align:middle;margin-left:6px;"></a></td>
+        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Digital Contract Platform <a href="https://github.com/nghn0" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
         <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Next.js · Express · Python</td>
         <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">AI legal-risk · on-chain verification · gRPC</td>
       </tr>
       <tr>
-        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;"><a href="https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website" target="_blank" style="color:#ffffff;text-decoration:none;">Loomera <img src="assets/icons/link.svg" width="14" height="14" alt="" style="vertical-align:middle;margin-left:6px;"></a></td>
+        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Loomera <a href="https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
         <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">TensorFlow · MobileNetV2 · Flask</td>
         <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">92%+ accuracy · Grad-CAM XAI · smart recs</td>
       </tr>
       <tr>
-        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;"><a href="https://github.com/nghn0/AI-Powered-Resume-Builder" target="_blank" style="color:#ffffff;text-decoration:none;">AI Resume Builder <img src="assets/icons/link.svg" width="14" height="14" alt="" style="vertical-align:middle;margin-left:6px;"></a></td>
+        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">AI Resume Builder <a href="https://github.com/nghn0/AI-Powered-Resume-Builder" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
         <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Node.js · Express · MongoDB</td>
         <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Prompt → ATS-ready PDF</td>
       </tr>
       <tr>
-        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;"><a href="https://github.com/nghn0/Sentient-NPC" target="_blank" style="color:#ffffff;text-decoration:none;">Sentient NPC <img src="assets/icons/link.svg" width="14" height="14" alt="" style="vertical-align:middle;margin-left:6px;"></a></td>
+        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Sentient NPC <a href="https://github.com/nghn0/Sentient-NPC" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
         <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Python · Transformer · Vosk</td>
         <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Fully offline · sub-245ms latency</td>
       </tr>
@@ -86,7 +86,7 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
 </div>
 <details>
   <summary align="center" style="list-style:none;text-align:center;padding-top:24px;cursor:pointer;outline:none;">
-    <img src="assets/icons/chevron.svg" width="16" height="16" alt="" style="vertical-align:middle;margin-right:8px;"><span style="font-size:17px;font-weight:600;color:#ffffff;vertical-align:middle;">More Projects</span><img src="assets/icons/link.svg" width="16" height="16" alt="" style="vertical-align:middle;margin-left:10px;">
+    <img src="assets/icons/chevron.svg" width="16" height="16" alt="" style="vertical-align:middle;margin-right:8px;"><span style="font-size:17px;font-weight:600;color:#ffffff;vertical-align:middle;">More Projects</span><img src="assets/icons/link.svg" width="24" height="15" alt="">
   </summary>
   <div style="padding:16px 30px 0 30px;">
     <table style="width:100%;max-width:940px;margin:0 auto;border-collapse:collapse;color:#ffffff;background:#000000;">
@@ -99,32 +99,32 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
       </thead>
       <tbody>
         <tr>
-          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;"><a href="https://github.com/nghn0/SolarCycle-analysis_and_prediction" target="_blank" style="color:#ffffff;text-decoration:none;">SolarCycle Analysis <img src="assets/icons/link.svg" width="14" height="14" alt="" style="vertical-align:middle;margin-left:6px;"></a></td>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">SolarCycle Analysis <a href="https://github.com/nghn0/SolarCycle-analysis_and_prediction" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
           <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">LSTM · TensorFlow · Pandas · NumPy</td>
           <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">SSN forecast · LSTM MAE 13.29</td>
         </tr>
         <tr>
-          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;"><a href="https://github.com/nghn0/Emojify" target="_blank" style="color:#ffffff;text-decoration:none;">Emojify <img src="assets/icons/link.svg" width="14" height="14" alt="" style="vertical-align:middle;margin-left:6px;"></a></td>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Emojify <a href="https://github.com/nghn0/Emojify" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
           <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">TensorFlow · Keras · OpenCV · CNN · ViT</td>
           <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Real-time emotion · 3 architectures · XAI</td>
         </tr>
         <tr>
-          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;"><a href="https://github.com/nghn0/qr_code_detection" target="_blank" style="color:#ffffff;text-decoration:none;">QR Code Detection <img src="assets/icons/link.svg" width="14" height="14" alt="" style="vertical-align:middle;margin-left:6px;"></a></td>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">QR Code Detection <a href="https://github.com/nghn0/qr_code_detection" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
           <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">YOLOv8 · Ultralytics · Label Studio · OpenCV</td>
           <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">50-epoch training · JSON outputs</td>
         </tr>
         <tr>
-          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;"><a href="https://github.com/nghn0/mcpserver" target="_blank" style="color:#ffffff;text-decoration:none;">MCP Server <img src="assets/icons/link.svg" width="14" height="14" alt="" style="vertical-align:middle;margin-left:6px;"></a></td>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">MCP Server <a href="https://github.com/nghn0/mcpserver" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
           <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">FastMCP · Docker · Gemini · JSON-RPC</td>
           <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Multi-domain routing · severity scoring</td>
         </tr>
         <tr>
-          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;"><a href="https://github.com/nghn0/RFID_smart_locking_system" target="_blank" style="color:#ffffff;text-decoration:none;">Smart Lock System <img src="assets/icons/link.svg" width="14" height="14" alt="" style="vertical-align:middle;margin-left:6px;"></a></td>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Smart Lock System <a href="https://github.com/nghn0/RFID_smart_locking_system" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
           <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">NodeMCU ESP8266 · MFRC522 · PHP · MySQL</td>
           <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">RFID auth · remote logging · IoT</td>
         </tr>
         <tr>
-          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;"><a href="https://github.com/nghn0/Sky_View" target="_blank" style="color:#ffffff;text-decoration:none;">Sky View <img src="assets/icons/link.svg" width="14" height="14" alt="" style="vertical-align:middle;margin-left:6px;"></a></td>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Sky View <a href="https://github.com/nghn0/Sky_View" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
           <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Flask · WeatherAPI · SQLite</td>
           <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Real-time weather · saved cities</td>
         </tr>
