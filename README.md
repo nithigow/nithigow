@@ -17,6 +17,7 @@
 <p align="center" style="text-align:center;font-size:16px;font-weight:400;color:#ffffff;line-height:1.6;padding:16px 24px 0 24px;max-width:940px;margin:0 auto;">
 I teach machines to do the impossible — just to see if they can. I've made AI argue back, read faces, predict the sun's mood swings, and turned a model into an IEEE paper while I was at it. I've also made contracts sign themselves on the blockchain. If a problem looks unsolvable, that's my favourite kind. Powered by espresso, wired by default.
 </p>
+<br>
 <!-- TECHNOLOGIES -->
 <div align="center" style="text-align:center;padding-top:44px;">
   <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0;"><img src="assets/icons/cpu.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">Technologies</h3>
