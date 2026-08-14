@@ -1,12 +1,12 @@
 <div align="center" style="text-align:center;width:1000px;max-width:100%;background:#000000;color:#ffffff;font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;padding-bottom:44px;">
 <!-- BANNER -->
-<img src="assets/banner.svg" width="1000" alt="NITHISH GOWDA — AI ENGINEER + FULL STACK DEVELOPER + ML ENTHUSIAST" style="max-width:100%;">
+<img src="assets/banner.png" width="1000" alt="NITHISH GOWDA — AI ENGINEER + FULL STACK DEVELOPER + ML ENTHUSIAST" style="max-width:100%;">
 <!-- CONTACT BUTTONS -->
 <div align="center" style="text-align:center;padding:21px 0 21px 0;">
-  <a href="https://www.linkedin.com/in/nithish-gowda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&labelColor=black" alt="LinkedIn" style="margin:0 8px 8px 0;"></a>
-  <a href="https://leetcode.com/u/nghn0/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Connect-black?style=flat-square&labelColor=black" alt="LeetCode" style="margin:0 8px 8px 0;"></a>
-  <a href="https://github.com/nghn0" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Connect-black?style=flat-square&labelColor=black" alt="Portfolio" style="margin:0 8px 8px 0;"></a>
-  <a href="mailto:nithish.gowda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Connect-black?style=flat-square&labelColor=black" alt="Gmail" style="margin:0 8px 8px 0;"></a>
+  <a href="https://www.linkedin.com/in/nithish-gowda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&labelColor=black" alt="LinkedIn" height="44" style="width:auto;margin:0 8px 8px 0;"></a>
+  <a href="https://leetcode.com/u/nghn0/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Connect-black?style=flat-square&labelColor=black" alt="LeetCode" height="44" style="width:auto;margin:0 8px 8px 0;"></a>
+  <a href="https://github.com/nghn0" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Connect-black?style=flat-square&labelColor=black" alt="Portfolio" height="44" style="width:auto;margin:0 8px 8px 0;"></a>
+  <a href="mailto:nithish.gowda@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Connect-black?style=flat-square&labelColor=black" alt="Gmail" height="44" style="width:auto;margin:0 8px 8px 0;"></a>
 </div>
 <!-- ABOUT -->
 <div align="center" style="text-align:center;padding-top:50px;">
