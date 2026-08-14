@@ -23,14 +23,14 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
   <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0;"><img src="assets/icons/cpu.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">Technologies</h3>
 </div>
 <div align="center" style="text-align:center;padding-top:20px;">
-  <p style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">AI, Machine Learning &amp; Data</p>
+  <p align="left" style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">AI, Machine Learning &amp; Data</p>
   <img src="assets/tech/tensorflow.svg" width="213" height="32" alt="TensorFlow / Keras">
   <img src="assets/tech/pytorch.svg" width="127" height="32" alt="PyTorch">
   <img src="assets/tech/opencv.svg" width="125" height="32" alt="OpenCV">
   <img src="assets/tech/postgresql.svg" width="155" height="32" alt="PostgreSQL">
 </div>
 <div align="center" style="text-align:center;padding-top:20px;">
-  <p style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">Languages &amp; Web Development</p>
+  <p align="left" style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">Languages &amp; Web Development</p>
   <img src="assets/tech/python.svg" width="118" height="32" alt="Python">
   <img src="assets/tech/nextjs.svg" width="117" height="32" alt="Next.js">
   <img src="assets/tech/nodejs.svg" width="122" height="32" alt="Node.js">
@@ -38,7 +38,7 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
   <img src="assets/tech/flask.svg" width="105" height="32" alt="Flask">
 </div>
 <div align="center" style="text-align:center;padding-top:20px;">
-  <p style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">Databases, DevOps &amp; Blockchain</p>
+  <p align="left" style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">Databases, DevOps &amp; Blockchain</p>
   <img src="assets/tech/mysql.svg" width="117" height="32" alt="MySQL">
   <img src="assets/tech/docker.svg" width="117" height="32" alt="Docker">
   <img src="assets/tech/solidity.svg" width="123" height="32" alt="Solidity">
