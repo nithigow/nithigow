@@ -1,6 +1,6 @@
 <div align="center" style="text-align:center;width:1000px;max-width:100%;background:#000000;color:#ffffff;font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;padding-bottom:44px;">
 <!-- BANNER -->
-<img src="assets/banner.svg" width="1000" alt="NITHISH GOWDA — AI ENGINEER + FULL STACK DEVELOPER + ML ENTHUSIAST" style="max-width:100%;">
+<img src="assets/banner.png" width="1000" alt="NITHISH GOWDA — AI ENGINEER + FULL STACK DEVELOPER + ML ENTHUSIAST" style="max-width:100%;">
 <!-- CONTACT BUTTONS -->
 <div align="center" style="text-align:center;padding:21px 0 21px 0;">
   <a href="https://www.linkedin.com/in/nithish-gowda/" target="_blank" style="background:#000000;border:1.5px solid #ffffff;border-radius:12px;text-decoration:none;margin:0 20px 12px 0;">
