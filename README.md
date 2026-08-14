@@ -23,27 +23,27 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
 </div>
 <div align="center" style="text-align:center;padding-top:20px;">
   <p style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">AI, Machine Learning &amp; Data</p>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">TensorFlow / Keras</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">PyTorch</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">OpenCV</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">PostgreSQL</span>
+  <img src="assets/tech/tensorflow.svg" width="213" height="32" alt="TensorFlow / Keras">
+  <img src="assets/tech/pytorch.svg" width="127" height="32" alt="PyTorch">
+  <img src="assets/tech/opencv.svg" width="125" height="32" alt="OpenCV">
+  <img src="assets/tech/postgresql.svg" width="155" height="32" alt="PostgreSQL">
 </div>
 <div align="center" style="text-align:center;padding-top:20px;">
   <p style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">Languages &amp; Web Development</p>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">Python</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">Next.js</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">Node.js</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">Express</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">Flask</span>
+  <img src="assets/tech/python.svg" width="118" height="32" alt="Python">
+  <img src="assets/tech/nextjs.svg" width="117" height="32" alt="Next.js">
+  <img src="assets/tech/nodejs.svg" width="122" height="32" alt="Node.js">
+  <img src="assets/tech/express.svg" width="125" height="32" alt="Express">
+  <img src="assets/tech/flask.svg" width="105" height="32" alt="Flask">
 </div>
 <div align="center" style="text-align:center;padding-top:20px;">
   <p style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">Databases, DevOps &amp; Blockchain</p>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">MySQL</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">Docker</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">Solidity</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">Ethers.js</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">Pandas &amp; NumPy</span>
-  <span style="display:inline-block;line-height:1;background:#000000;border:2px solid #ffffff;border-radius:12px;padding:6px 14px;margin:0 7px 12px 7px;color:#ffffff;font-size:15px;font-weight:500;"><img src="assets/icons/chip.svg" width="18" height="18" alt="" style="vertical-align:middle;margin-right:9px;">Git &amp; GitHub</span>
+  <img src="assets/tech/mysql.svg" width="117" height="32" alt="MySQL">
+  <img src="assets/tech/docker.svg" width="117" height="32" alt="Docker">
+  <img src="assets/tech/solidity.svg" width="123" height="32" alt="Solidity">
+  <img src="assets/tech/ethers.svg" width="132" height="32" alt="Ethers.js">
+  <img src="assets/tech/pandas.svg" width="194" height="32" alt="pandas-numpy">
+  <img src="assets/tech/git.svg" width="161" height="32" alt="pandas-numpy">
 </div>
 <!-- PROJECTS -->
 <div align="center" style="text-align:center;padding-top:44px;">
